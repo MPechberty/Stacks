@@ -10,9 +10,7 @@
 
 Swipe up on an icon of your dock and a curved stack of up to 5 apps, web clips or web apps comes out of it !
 
-# ***Get Stacks on Havoc* :**
-
-https://havoc.app/package/stacks
+🛒 Havoc shop : https://havoc.app/package/stacks
 
 # ***Features* :**
 
@@ -87,9 +85,7 @@ https://github.com/MPechberty/Stacks/issues
 
 Glisse vers le haut sur une icône de ton dock et une pile courbe de 5 apps, web clips ou web apps au maximum en sort !
 
-# ***Obtenir Stacks sur Havoc* :**
-
-https://havoc.app/package/stacks
+🛒 Boutique Havoc : https://havoc.app/package/stacks
 
 # ***Fonctions* :**
 

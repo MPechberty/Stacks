@@ -15,7 +15,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "🛒 <b>Havoc shop:</b> <a href=\"https://havoc.app/package/stacks\" style=\"color:#1F7AFF\">https://havoc.app/package/stacks</a>",
+          "markdown": "🛒 <b>Havoc shop :</b> <a href=\"https://havoc.app/package/stacks\" style=\"color:#1F7AFF\">https://havoc.app/package/stacks</a>",
           "useSpacing": true,
           "useRawFormat": true
         },
@@ -161,7 +161,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "🛒 <b>Boutique Havoc:</b> <a href=\"https://havoc.app/package/stacks\" style=\"color:#1F7AFF\">https://havoc.app/package/stacks</a>",
+          "markdown": "🛒 <b>Boutique Havoc :</b> <a href=\"https://havoc.app/package/stacks\" style=\"color:#1F7AFF\">https://havoc.app/package/stacks</a>",
           "useSpacing": true,
           "useRawFormat": true
         },

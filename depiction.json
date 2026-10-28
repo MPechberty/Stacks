@@ -15,15 +15,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "# ***Get Stacks on Havoc* :**",
-          "useSpacing": true
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<a href=\"https://havoc.app/package/stacks\" style=\"color:#0A84FF\">https://havoc.app/package/stacks</a>",
+          "markdown": "🛒 <b>Havoc shop:</b> <a href=\"https://havoc.app/package/stacks\" style=\"color:#1F7AFF\">https://havoc.app/package/stacks</a>",
           "useSpacing": true,
           "useRawFormat": true
         },
@@ -169,15 +161,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "# ***Obtenir Stacks sur Havoc* :**",
-          "useSpacing": true
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<a href=\"https://havoc.app/package/stacks\" style=\"color:#0A84FF\">https://havoc.app/package/stacks</a>",
+          "markdown": "🛒 <b>Boutique Havoc:</b> <a href=\"https://havoc.app/package/stacks\" style=\"color:#1F7AFF\">https://havoc.app/package/stacks</a>",
           "useSpacing": true,
           "useRawFormat": true
         },

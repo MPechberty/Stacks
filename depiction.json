@@ -1,0 +1,332 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "headerImage": "https://mpechberty.github.io/Stacks/header.png",
+  "tintColor": "#0A84FF",
+  "tabs": [
+    {
+      "tabname": "English",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**Stacks !** Stack of shortcuts for your dock, like the stacks of Mac OS X Leopard, on iOS 16 !\n\nSwipe up on an icon of your dock and a curved stack of up to 5 apps, web clips or web apps comes out of it !",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "🛒 <b>Havoc shop :</b> <a href=\"https://havoc.app/package/stacks\" style=\"color:#1F7AFF\">https://havoc.app/package/stacks</a>",
+          "useSpacing": true,
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "# ***Features* :**",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**• Up to 20 apps on your dock (4 × 5 = 20 !) :**\n- Put a stack on every icon of your dock : 4 stacks × 5 apps = 20 apps on every page, right from your dock (25 with FiveIconDock !).\n- Each stack is numbered in the settings preview (1, 2, 3…) in the order you create it.\n- Each stack has its own curve : style 1 / 2 / 3, curvature and direction. All the other settings are shared by all the stacks.\n- Only one stack opens at a time.\n\n**• Handle style :**\n- 6 handles to show where your stacks are : Double chevron, Chevron, Bar, Three dots, Stack preview or None.\n- Stack preview (default) : the top of the 1st app of the stack peeks out above the dock icon.\n\n**• Delete a stack with a poof :**\n- Hold your finger 3 s on the selected icon in the preview : the outline turns red and the icons wiggle.\n- Then the outline blinks for 3 s (tap anywhere to cancel), and the icons go up in smoke one after another, with a sound.\n\n**• Lock the stacks :**\n- One switch greys out all the settings and closes the stack of the preview.\n- Its Test button opens all your stacks at once for 3 s.\n\n**• A stack on your dock :**\n- Choose any app of your dock by touching it in the settings preview, and up to 5 apps, web clips or web apps for its stack.\n- Swipe up on that dock icon to open the stack, tap an icon to launch it, tap anywhere else to close it.\n- A small grabber above the dock icon shows where your stack is.\n\n**• Mac OS X Leopard style :**\n- The icons lie flat against a bent plank.\n- 3 styles : the stack curves from the dock (style 1), after the 1st icon (style 2) or after the 2nd icon (style 3).\n- Adjust the curvature with a slider, and curve the stack to the left or to the right.\n- The icons slide out of the dock icon along the plank, and slide back the same way.\n\n**• App names :**\n- Show the name of the apps to the left, to the right or below their icon, following the curve of the stack.\n- Mac OS style or iOS style.\n\n**• Customize the background and the animation :**\n- Adjust the blur and the dimming of the background, from 0 to 100 %.\n- Adjust the speed of the opening / closing animation.\n\n**• Live preview :**\n- A preview of your dock and your stack in the settings, updated as you move the sliders.\n\n**• 100 % compatible with FiveIconDock :** a stack on each of your 5 dock icons.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "# ***Settings live in* :**",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**Settings --› Stacks** (A respring is not needed to apply all changes).",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "# ***Screenshots* :**",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 12,
+          "itemSize": "{180, 390}",
+          "screenshots": [
+            {
+              "url": "https://mpechberty.github.io/Stacks/1.png",
+              "accessibilityText": "Screenshot 1"
+            },
+            {
+              "url": "https://mpechberty.github.io/Stacks/2.png",
+              "accessibilityText": "Screenshot 2"
+            },
+            {
+              "url": "https://mpechberty.github.io/Stacks/3.png",
+              "accessibilityText": "Screenshot 3"
+            },
+            {
+              "url": "https://mpechberty.github.io/Stacks/4.png",
+              "accessibilityText": "Screenshot 4"
+            },
+            {
+              "url": "https://mpechberty.github.io/Stacks/5.png",
+              "accessibilityText": "Screenshot 5"
+            },
+            {
+              "url": "https://mpechberty.github.io/Stacks/6.png",
+              "accessibilityText": "Screenshot 6"
+            },
+            {
+              "url": "https://mpechberty.github.io/Stacks/7.png",
+              "accessibilityText": "Screenshot 7"
+            },
+            {
+              "url": "https://mpechberty.github.io/Stacks/8.png",
+              "accessibilityText": "Screenshot 8"
+            },
+            {
+              "url": "https://mpechberty.github.io/Stacks/9.png",
+              "accessibilityText": "Screenshot 9"
+            },
+            {
+              "url": "https://mpechberty.github.io/Stacks/10.png",
+              "accessibilityText": "Screenshot 10"
+            },
+            {
+              "url": "https://mpechberty.github.io/Stacks/11.png",
+              "accessibilityText": "Screenshot 11"
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "# ***Compatibility* :**",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- iOS : 16 --> 16.7.XX\n\n- Jailbreak : Rootless\n\n- Requires : PreferenceLoader\n\n- Tested only on : iPhone X - iOS 16.7.12",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "# ***Other iPhones or other iOS versions ? :***",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Help me test other devices !\n\nIf you try Stacks on another iPhone or other iOS versions, please tell me if it works (model + iOS version = works, doesn't work or bug) :",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<a href=\"https://github.com/MPechberty/Stacks/issues\" style=\"color:#0A84FF\">https://github.com/MPechberty/Stacks/issues</a>",
+          "useSpacing": true,
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "# ***Support* :**",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**Report an issue on GitHub :**",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<a href=\"https://github.com/MPechberty/Stacks/issues\" style=\"color:#0A84FF\">https://github.com/MPechberty/Stacks/issues</a>",
+          "useSpacing": true,
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "© 2026 – Created by M.Pechberty",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 12
+        }
+      ]
+    },
+    {
+      "tabname": "Français",
+      "class": "DepictionStackView",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**Stacks !** Une pile de raccourcis pour ton dock, comme les piles de Mac OS X Leopard, sur iOS 16 !\n\nGlisse vers le haut sur une icône de ton dock et une pile courbe de 5 apps, web clips ou web apps au maximum en sort !",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "🛒 <b>Boutique Havoc :</b> <a href=\"https://havoc.app/package/stacks\" style=\"color:#1F7AFF\">https://havoc.app/package/stacks</a>",
+          "useSpacing": true,
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "# ***Fonctions* :**",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**• Jusqu'à 20 apps sur ton dock (4 × 5 = 20 !) :**\n- Pose une pile sur chaque icône de ton dock : 4 piles × 5 apps = 20 apps sur chaque page, directement depuis ton dock (25 avec FiveIconDock !).\n- Chaque pile est numérotée dans l'aperçu des réglages (1, 2, 3…) dans l'ordre où tu la crées.\n- Chaque pile a sa propre courbure : style 1 / 2 / 3, courbure et sens. Tous les autres réglages sont communs à toutes les piles.\n- Une seule pile s'ouvre à la fois.\n\n**• Style de la poignée :**\n- 6 poignées pour indiquer où sont tes piles : Double chevron, Chevron, Barre, Trois points, Aperçu de la pile ou Aucune.\n- Aperçu de la pile (par défaut) : le haut de la 1re app de la pile dépasse au-dessus de l'icône du dock.\n\n**• Supprime une pile en fumée :**\n- Garde le doigt 3 s sur l'icône sélectionnée dans l'aperçu : le contour devient rouge et les icônes tremblent.\n- Puis le contour clignote pendant 3 s (touche l'écran pour annuler), et les icônes partent en fumée l'une après l'autre, avec un son.\n\n**• Verrouille les piles :**\n- Un switch grise tous les réglages et referme la pile de l'aperçu.\n- Son bouton Test ouvre toutes tes piles en même temps pendant 3 s.\n\n**• Une pile sur ton dock :**\n- Choisis n'importe quelle app de ton dock en la touchant dans l'aperçu des réglages, et jusqu'à 5 apps, web clips ou web apps pour sa pile.\n- Glisse vers le haut sur cette icône du dock pour ouvrir la pile, touche une icône pour la lancer, touche ailleurs pour la fermer.\n- Un petit grabber au-dessus de l'icône du dock indique où se trouve ta pile.\n\n**• Style Mac OS X Leopard :**\n- Les icônes sont posées à plat contre une planche cintrée.\n- 3 styles : la pile se courbe dès le dock (style 1), après la 1re icône (style 2) ou après la 2e icône (style 3).\n- Règle la courbure avec un curseur, et courbe la pile vers la gauche ou vers la droite.\n- Les icônes sortent de l'icône du dock en glissant le long de la planche, et rentrent de la même façon.\n\n**• Noms des apps :**\n- Affiche le nom des apps à gauche, à droite ou sous leur icône, en suivant la courbure de la pile.\n- Style Mac OS ou style iOS.\n\n**• Personnalise le fond et l'animation :**\n- Règle le flou et l'assombrissement du fond, de 0 à 100 %.\n- Règle la vitesse de l'animation d'ouverture / fermeture.\n\n**• Aperçu en direct :**\n- Un aperçu de ton dock et de ta pile dans les réglages, mis à jour pendant que tu bouges les curseurs.\n\n**• 100 % compatible avec FiveIconDock :** une pile sur chacune des 5 icônes de ton dock.",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "# ***Les réglages sont dans* :**",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**Réglages --› Stacks** (Un respring n'est pas obligatoire pour appliquer tous les changements).",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "# ***Captures d'écran* :**",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 12,
+          "itemSize": "{180, 390}",
+          "screenshots": [
+            {
+              "url": "https://mpechberty.github.io/Stacks/1.png",
+              "accessibilityText": "Capture d'écran 1"
+            },
+            {
+              "url": "https://mpechberty.github.io/Stacks/2.png",
+              "accessibilityText": "Capture d'écran 2"
+            },
+            {
+              "url": "https://mpechberty.github.io/Stacks/3.png",
+              "accessibilityText": "Capture d'écran 3"
+            },
+            {
+              "url": "https://mpechberty.github.io/Stacks/4.png",
+              "accessibilityText": "Capture d'écran 4"
+            },
+            {
+              "url": "https://mpechberty.github.io/Stacks/5.png",
+              "accessibilityText": "Capture d'écran 5"
+            },
+            {
+              "url": "https://mpechberty.github.io/Stacks/6.png",
+              "accessibilityText": "Capture d'écran 6"
+            },
+            {
+              "url": "https://mpechberty.github.io/Stacks/7.png",
+              "accessibilityText": "Capture d'écran 7"
+            },
+            {
+              "url": "https://mpechberty.github.io/Stacks/8.png",
+              "accessibilityText": "Capture d'écran 8"
+            },
+            {
+              "url": "https://mpechberty.github.io/Stacks/9.png",
+              "accessibilityText": "Capture d'écran 9"
+            },
+            {
+              "url": "https://mpechberty.github.io/Stacks/10.png",
+              "accessibilityText": "Capture d'écran 10"
+            },
+            {
+              "url": "https://mpechberty.github.io/Stacks/11.png",
+              "accessibilityText": "Capture d'écran 11"
+            }
+          ]
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "# ***Compatibilité* :**",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- iOS : 16 --> 16.7.XX\n\n- Jailbreak : Rootless\n\n- Nécessite : PreferenceLoader\n\n- Testé seulement sur : iPhone X - iOS 16.7.12",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "# ***Autres iPhone ou autres versions d'iOS ? :***",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Aide-moi à tester d'autres appareils !\n\nSi tu essaies Stacks sur un autre iPhone ou une autre version d'iOS, merci de me dire s'il fonctionne (modèle + version d'iOS = fonctionne, fonctionne pas ou bug) :",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<a href=\"https://github.com/MPechberty/Stacks/issues\" style=\"color:#0A84FF\">https://github.com/MPechberty/Stacks/issues</a>",
+          "useSpacing": true,
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "# ***Support* :**",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**Signaler un problème sur GitHub :**",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<a href=\"https://github.com/MPechberty/Stacks/issues\" style=\"color:#0A84FF\">https://github.com/MPechberty/Stacks/issues</a>",
+          "useSpacing": true,
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "© 2026 – Créé par M.Pechberty",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 12
+        }
+      ]
+    }
+  ]
+}

@@ -10,7 +10,7 @@
 
 Swipe up on an icon of your dock and a curved stack of up to 5 apps, web clips or web apps comes out of it !
 
-🛒 Havoc shop : [https://havoc.app/package/stacks](https://havoc.app/package/stacks)
+> 🛒 Havoc shop : [https://havoc.app/package/stacks](https://havoc.app/package/stacks)
 
 # ***Features* :**
 

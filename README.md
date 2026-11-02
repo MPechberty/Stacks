@@ -70,7 +70,7 @@ Swipe up on an icon of your dock and a curved stack of up to 5 apps, web clips o
 
 # ***Compatibility* :**
 
-- iOS : 16 --> 16.7.XX
+- iOS : 16.7 --> 16.7.XX
 
 - Jailbreak : Rootless
 
@@ -92,7 +92,7 @@ https://github.com/MPechberty/Stacks/issues
 
 https://github.com/MPechberty/Stacks/issues
 
-© 2026 – Created by M.Pechberty 🇫🇷 😎
+© 2026 – Created by M.Pechberty 🇫🇷
 
 ---
 
@@ -165,7 +165,7 @@ Glisse vers le haut sur une icône de ton dock et une pile courbe de 5 apps, web
 
 # ***Compatibilité* :**
 
-- iOS : 16 --> 16.7.XX
+- iOS : 16.7 --> 16.7.XX
 
 - Jailbreak : Rootless
 
@@ -187,4 +187,4 @@ https://github.com/MPechberty/Stacks/issues
 
 https://github.com/MPechberty/Stacks/issues
 
-© 2026 – Créé par M.Pechberty 🇫🇷 😎
+© 2026 – Créé par M.Pechberty 🇫🇷

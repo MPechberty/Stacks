@@ -4,7 +4,7 @@
 
 # Stacks
 
-**🇬🇧 English** · [🇫🇷 Français](#-français)
+## **🇬🇧 English** · [🇫🇷 Français](#-français)
 
 **Stacks !** Stack of shortcuts for your dock, like the stacks of Mac OS X Leopard, on iOS 16 !
 

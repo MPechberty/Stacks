@@ -94,10 +94,6 @@ https://github.com/MPechberty/Stacks/issues
 
 © 2026 – Created by M.Pechberty 🇫🇷
 
----
-
----
-
 ## 🇫🇷 Français
 
 **Stacks !** Une pile de raccourcis pour ton dock, comme les piles de Mac OS X Leopard, sur iOS 16 !

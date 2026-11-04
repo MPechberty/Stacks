@@ -25,7 +25,7 @@ Swipe up on an icon of your dock and a curved stack of up to 5 apps, web clips o
 - Stack preview (default) : the top of the 1st app of the stack peeks out above the dock icon.
 
 **• Delete a stack with a poof :**
-- Hold your finger 3 s on the selected icon in the preview : the outline turns red and the icons wiggle.
+- Hold your finger 1,5 s on the selected icon in the preview : the outline turns red and the icons wiggle.
 - Then the outline blinks for 3 s (tap anywhere to cancel), and the icons go up in smoke one after another, with a sound.
 
 **• Lock the stacks :**
@@ -122,7 +122,7 @@ Glisse vers le haut sur une icône de ton dock et une pile courbe de 5 apps, web
 - Aperçu de la pile (par défaut) : le haut de la 1re app de la pile dépasse au-dessus de l'icône du dock.
 
 **• Supprime une pile en fumée :**
-- Garde le doigt 3 s sur l'icône sélectionnée dans l'aperçu : le contour devient rouge et les icônes tremblent.
+- Garde le doigt 1,5 s sur l'icône sélectionnée dans l'aperçu : le contour devient rouge et les icônes tremblent.
 - Puis le contour clignote pendant 3 s (touche l'écran pour annuler), et les icônes partent en fumée l'une après l'autre, avec un son.
 
 **• Verrouille les piles :**

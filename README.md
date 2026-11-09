@@ -10,8 +10,6 @@
 
 Swipe up on an icon of your dock and a curved stack of up to 5 apps, web clips or web apps comes out of it !
 
-> 🛒 Havoc shop : [https://havoc.app/package/stacks](https://havoc.app/package/stacks)
-
 # ***Features* :**
 
 **• Up to 20 apps on your dock (4 × 5 = 20 !) :**
@@ -105,9 +103,6 @@ https://github.com/MPechberty/Stacks/issues
 **Stacks !** Une pile de raccourcis pour ton dock, comme les piles de Mac OS X Leopard, sur iOS 16 !
 
 Glisse vers le haut sur une icône de ton dock et une pile courbe de 5 apps, web clips ou web apps au maximum en sort !
-
-> 🛒 Boutique Havoc : [https://havoc.app/package/stacks](https://havoc.app/package/stacks)
-
 
 # ***Fonctions* :**
 

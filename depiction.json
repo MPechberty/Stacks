@@ -15,12 +15,6 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "🛒 <b>Havoc shop :</b> <a href=\"https://havoc.app/package/stacks\" style=\"color:#1F7AFF\">https://havoc.app/package/stacks</a>",
-          "useSpacing": true,
-          "useRawFormat": true
-        },
-        {
-          "class": "DepictionMarkdownView",
           "markdown": "# ***Features* :**",
           "useSpacing": true
         },
@@ -174,12 +168,6 @@
           "class": "DepictionMarkdownView",
           "markdown": "**🇫🇷 Français**\n\n**Stacks !** Une pile de raccourcis pour ton dock, comme les piles de Mac OS X Leopard, sur iOS 16 !\n\nGlisse vers le haut sur une icône de ton dock et une pile courbe de 5 apps, web clips ou web apps au maximum en sort !",
           "useSpacing": true
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "🛒 <b>Boutique Havoc :</b> <a href=\"https://havoc.app/package/stacks\" style=\"color:#1F7AFF\">https://havoc.app/package/stacks</a>",
-          "useSpacing": true,
-          "useRawFormat": true
         },
         {
           "class": "DepictionMarkdownView",
